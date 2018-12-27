@@ -3,6 +3,7 @@
 	2. 安装BBR：wget –no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 		   chmod +x bbr.sh
 		   ./bbr.sh
+		   
 # Vultr-Aliyun
 定时检测vultr服务器连接情况并自动修复的python3程序
 
