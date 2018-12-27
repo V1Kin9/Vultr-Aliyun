@@ -1,3 +1,8 @@
+# Vultr-command
+	1. 安装SSR：wget --no-check-certificate https://freed.ga/github/shadowsocksR.sh; bash shadowsocksR.sh
+	2. 安装BBR：wget –no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+		   chmod +x bbr.sh
+		   ./bbr.sh
 # Vultr-Aliyun
 定时检测vultr服务器连接情况并自动修复的python3程序
 
